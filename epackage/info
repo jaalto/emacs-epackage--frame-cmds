@@ -1,7 +1,7 @@
 Package: frame-cmds
 Section: extensions
 License: GPL-2+
-Depends: emacs (>= 20)
+Depends: emacs (>= 20), frame-fns
 Status: stable
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
