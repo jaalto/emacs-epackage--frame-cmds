@@ -1,0 +1,21 @@
+Package: fram-cmds
+Section: extensions
+License: GPL-2+ | BSD | Apache-2.0 | ... | None
+Depends: emacs (>= 20)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Drew Adams
+Upstream-Bugs:
+Vcs-Type: http
+Vcs-Url: http://www.emacswiki.org/emacs/download/frame-cmds.el
+Vcs-Args:
+Vcs-Browser:
+Vcs-User:
+Vcs-Password:
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/SetFonts
+Commentary:
+Description: Library. Interactive frame and window commands.
+ [<Longer description>]
