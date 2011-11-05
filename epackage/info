@@ -1,4 +1,4 @@
-Package: fram-cmds
+Package: frame-cmds
 Section: extensions
 License: GPL-2+
 Depends: emacs (>= 20)
