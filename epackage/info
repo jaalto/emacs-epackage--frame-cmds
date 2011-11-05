@@ -1,6 +1,6 @@
 Package: fram-cmds
 Section: extensions
-License: GPL-2+ | BSD | Apache-2.0 | ... | None
+License: GPL-2+
 Depends: emacs (>= 20)
 Status: stable
 Compat:
@@ -17,5 +17,5 @@ Vcs-Password:
 Homepage:
 Wiki: http://www.emacswiki.org/emacs/SetFonts
 Commentary:
-Description: Library. Interactive frame and window commands.
+Description: library of interactive frame and window commands
  [<Longer description>]
