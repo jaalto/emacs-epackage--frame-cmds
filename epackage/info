@@ -1,12 +1,12 @@
 Package: frame-cmds
 Section: extensions
 License: GPL-2+
-Depends: emacs (>= 20), frame-fns
-Status: stable
+Depends: emacs (>= 22), lib-frame-fns
+Status: stable unsafe
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
-Upstream: Drew Adams
+Upstream: Drew Adams <drew.adams@oracle.com>
 Upstream-Bugs:
 Vcs-Type: http
 Vcs-Url: http://www.emacswiki.org/emacs/download/frame-cmds.el
@@ -15,7 +15,16 @@ Vcs-Browser:
 Vcs-User:
 Vcs-Password:
 Homepage:
-Wiki: http://www.emacswiki.org/emacs/SetFonts
+Wiki: http://www.emacswiki.org/cgi-bin/wiki/FrameModes
 Commentary:
 Description: library of interactive frame and window commands
- [<Longer description>]
+
+ Miscellaneous interactive frame and window commands: to resize and
+ move a frame incrementally, to tile all visible frames, to
+ iconify/hide all frames, incrementally change the size of a frame’s
+ font, save and restore fram configurations; delete, iconify or remove
+ window etc.
+ .
+ Note: package is not namespace safe. Function may clash with
+ standard Emacs.
+
