@@ -43,4 +43,4 @@
 (autoload 'set-all-frame-alist-parameters-from-frame "frame-cmds" "" t)
 (autoload 'tell-customize-var-has-changed       "frame-cmds" "" t)
 (autoload 'other-window-or-frame                "frame-cmds" "" t)
-(provide 'lib-frame-cmds-epkg-install)
+(provide 'lib-frame-cmds-epackage-install)

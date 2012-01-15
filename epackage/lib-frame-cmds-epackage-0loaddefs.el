@@ -400,4 +400,4 @@ VARIABLE is a symbol that names a user option.
 \(fn ARG)" t nil)
 
 ;;;***
-(provide 'lib-frame-cmds-epkg-0loaddefs)
+(provide 'lib-frame-cmds-epackage-0loaddefs)

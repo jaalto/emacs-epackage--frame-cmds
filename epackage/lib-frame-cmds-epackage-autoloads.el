@@ -58,4 +58,4 @@
 (autoload 'frame-parameter-names                "frame-cmds" "" nil)
 (autoload 'tell-customize-var-has-changed       "frame-cmds" "" t)
 (autoload 'other-window-or-frame                "frame-cmds" "" t)
-(provide 'lib-frame-cmds-epkg-autoloads)
+(provide 'lib-frame-cmds-epackage-autoloads)
